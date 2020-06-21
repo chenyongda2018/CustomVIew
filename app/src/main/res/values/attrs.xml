@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomView">
+        <attr name="square_color" format="color" />
+        <attr name="square_size" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="NumberInputView">
+        <attr name="min" format="integer" />
+        <attr name="max" format="integer" />
+        <attr name="step" format="integer" />
+        <attr name="disabled" format="boolean" />
+        <attr name="defaultValue" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="LoginPageView">
+        <attr name="mainColor" format="color" />
+        <attr name="verifyCodeLength" format="integer" />
+        <attr name="verifyCodeCodeDownTime" format="integer"/>
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="200dp"
+    android:layout_height="50dp"
+    android:gravity="center"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/number_input_view_minus_btn"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/selector_number_input_left_btn"
+        android:gravity="center"
+        android:text="-"
+        android:textSize="20dp" />
+
+    <EditText
+        android:id="@+id/number_input_view_number_et"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/number_input_bg_num_et"
+        android:gravity="center"
+        android:text="0"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/number_input_view_plus_btn"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/selector_number_input_right_btn"
+        android:gravity="center"
+        android:text="+"
+        android:textSize="20dp" />
+
+</LinearLayout>

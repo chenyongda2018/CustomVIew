@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#974726</color>
+    <color name="btnColor">#F8F9F9</color>
+    <color name="btnColorPressed">#D7DBDD</color>
+    <color name="loginKeyPadBlack">#383838</color>
+    <color name="loginKeyPadDeepBrown">#974726</color>
+    <color name="loginKeyPadLightBrown">#fd763f</color>
+    <color name="colorBlack">#000</color>
+    <color name="edit_text_hint_color">#707070</color>
+</resources>

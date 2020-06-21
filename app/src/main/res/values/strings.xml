@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomView</string>
+    <string name="agreement_user_protocol_">同意 《沙雕用户协议》</string>
+    <string name="phone_number_input_hint">请输入11位手机号码</string>
+    <string name="input_verify_code_hint">请输入验证码</string>
+    <string name="get_verify_code">获取验证码</string>
+    <string name="login_head_title">阳光沙滩账号登录</string>
+</resources>
